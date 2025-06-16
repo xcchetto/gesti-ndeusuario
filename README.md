@@ -1,2 +1,2 @@
-# gesti-ndeusuario
-en este repositorio utilizaremos lenguaje de programación  js html css
+# gestiondeusuarios
+Sistema basico en html, js y css que gestiona usuarios en un sistema.
